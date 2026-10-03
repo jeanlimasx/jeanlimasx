@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o Jean 👋
 
-<!--
-**jeanlimasx/jeanlimasx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software em São Paulo, construindo agentes de IA e automações para vendas e atendimento.
 
-Here are some ideas to get you started:
+Venho da área comercial: trabalho com vendas consultivas e gestão de tráfego pago. Por isso conheço o caminho do lead do anúncio até o fechamento, e é exatamente aí que gosto de aplicar tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 No que estou trabalhando
+
+- **Qualificador de leads com IA:** API em Python/FastAPI que analisa a mensagem de um lead, extrai as informações importantes e classifica o potencial de compra. Configurável por segmento, com exemplos para academia e mercado imobiliário (em construção)
+- **Agente de IA para atendimento** de uma clínica, construído com n8n
+- **Sistemas próprios** de organização financeira
+
+## 🧰 Tecnologias
+
+**No dia a dia:** Python · n8n · Git
+
+**Estudando agora:** FastAPI · React · TypeScript · PostgreSQL
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/jeanlimasx/)
