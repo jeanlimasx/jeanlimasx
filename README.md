@@ -6,7 +6,7 @@ Venho da área comercial: trabalho com vendas consultivas e gestão de tráfego 
 
 ## 🔨 No que estou trabalhando
 
-- **Qualificador de leads com IA:** API em Python/FastAPI que analisa a mensagem de um lead, extrai as informações importantes e classifica o potencial de compra. Configurável por segmento, com exemplos para academia e mercado imobiliário (em construção)
+- **Qualificador de leads com IA:** API em Python/FastAPI que analisa a mensagem de um lead, extrai as informações importantes e classifica o potencial de compra. Configurável por segmento, com exemplos para academia e mercado imobiliário [Teste ao vivo](https://jeanlimasx.vercel.app)
 - **Agente de IA para atendimento** de uma clínica, construído com n8n
 - **Sistemas próprios** de organização financeira
 
@@ -18,4 +18,4 @@ Venho da área comercial: trabalho com vendas consultivas e gestão de tráfego 
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/jeanlimasx/)
+[Portfólio](https://jeanlimasx.vercel.app) · [LinkedIn](https://www.linkedin.com/in/jeanlimasx/)
